@@ -13,7 +13,7 @@ public class Bullet : MonoBehaviour
     //time setting for bullet destruction
     private float time = 1;
 
-
+//test
 
 
 
